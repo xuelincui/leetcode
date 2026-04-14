@@ -1,0 +1,14 @@
+# ninja log v6
+5	68	1744728541398505595	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+2	5487	1744729053626995936	CMakeFiles/BinarySearchTree.dir/main.cpp.o	eebbd3d349b2cb6
+11	5112	1744729330794661045	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+10	5183	1744729330793661046	CMakeFiles/BinarySearchTree.dir/main.cpp.o	eebbd3d349b2cb6
+12	1611	1744729358590626167	CMakeFiles/BinarySearchTree.dir/main.cpp.o	eebbd3d349b2cb6
+29	113	1744729440708522067	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+116	598	1744729440795521955	BinarySearchTree	bc1651c9a1a0d391
+7	5043	1744729453629505553	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+13	6537	1744729724683152519	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+14	6543	1744729900984917846	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+11	5049	1744730018862759421	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+11	4818	1744730027179748204	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644
+10	4671	1744730194088359474	CMakeFiles/BinarySearchTree.dir/bst.cpp.o	becca92f6f8d6644

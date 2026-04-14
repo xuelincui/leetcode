@@ -1,0 +1,7 @@
+# ninja log v6
+1	524	1745269854497032190	CMakeFiles/LongestConsecutiveSequence128.dir/main.cpp.o	63487017a5a4e184
+524	597	1745269855020027668	LongestConsecutiveSequence128	dbc51251d834a35c
+2	826	1745324006330546917	CMakeFiles/LongestConsecutiveSequence128.dir/main.cpp.o	63487017a5a4e184
+826	907	1745324007154546566	LongestConsecutiveSequence128	dbc51251d834a35c
+3	832	1745324028928536988	CMakeFiles/LongestConsecutiveSequence128.dir/main.cpp.o	63487017a5a4e184
+832	914	1745324029757536612	LongestConsecutiveSequence128	dbc51251d834a35c
